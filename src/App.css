@@ -1,0 +1,33 @@
+*,
+*::before
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 3rem;
+}
+
+button {
+  margin: 1rem 0;
+}
+
+p.output { 
+  position: absolute;
+  top: 40px;
+  right: 0;
+  bottom: 0;
+  left: 50%;
+}
+
+.squares {
+  position: relative;
+  float: left;
+  max-width: 700px;
+  margin-top: 20px;
+}
