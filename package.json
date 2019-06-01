@@ -1,6 +1,6 @@
 {
   "name": "props-children",
-  "homepage": "https://github.com/anthonybrown/props.children",
+  "homepage": "https://github.com/anthonybrown/props-children",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
